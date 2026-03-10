@@ -1,0 +1,2 @@
+# skardu-tourism
+tourism 
