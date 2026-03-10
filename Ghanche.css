@@ -1,0 +1,71 @@
+body{
+font-family: Arial, sans-serif;
+margin:0;
+padding:0;
+background:#f4f4f4;
+}
+
+/* Header */
+
+header{
+background:#063d2f;
+color:white;
+display:flex;
+justify-content:space-between;
+align-items:center;
+padding:15px 40px;
+}
+
+header h1{
+margin:0;
+}
+
+nav a{
+color:white;
+text-decoration:none;
+margin-left:20px;
+font-size:18px;
+}
+
+nav a:hover{
+color:orange;
+}
+
+/* Page Section */
+
+.tour-page{
+max-width:900px;
+margin:40px auto;
+background:white;
+padding:30px;
+border-radius:10px;
+text-align:center;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+/* Image */
+
+.tour-page img{
+width:100%;
+max-width:700px;
+border-radius:10px;
+margin-top:20px;
+}
+
+/* Text */
+
+.tour-page p{
+font-size:18px;
+line-height:1.6;
+margin-top:20px;
+}
+
+/* Footer */
+
+footer{
+background:#063d2f;
+color:white;
+text-align:center;
+padding:15px;
+margin-top:40px;
+}

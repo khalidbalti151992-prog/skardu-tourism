@@ -1,0 +1,1 @@
+console.log("Skardu Tourism Website Loaded");
